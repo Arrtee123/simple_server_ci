@@ -1,5 +1,5 @@
 {
-  "name": "simple_server",
-  "domain": "rachelturrell-simple.xf.mkrs.link",
+  "name": "simple_server_cicd",
+  "domain": "rachelturrell-simple-cicd.xf.mkrs.link",
   "port": "5000"
 }
