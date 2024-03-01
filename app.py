@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route('/', methods=['GET'])
 def get_home():
-    return render_template("home.html")
+    return "Hello, world!"
 
 @app.route('/page-<id>')
 def get_page(id):
